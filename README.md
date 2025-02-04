@@ -73,8 +73,7 @@ The study demonstrates that machine learning techniques can effectively classify
 ## Authors
 - **Marcelo Rc. D Guevarra**
 - **Michael Cye R. Salem**
-- **Additional Contributors**
-
+  
 ## References
 - [Wine Quality Dataset - Kaggle](https://www.kaggle.com/datasets/yasserh/wine-quality-dataset)
 - Research papers on machine learning and wine classification.
