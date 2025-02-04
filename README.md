@@ -72,7 +72,7 @@ The study demonstrates that machine learning techniques can effectively classify
 
 ## Authors
 - **Marcelo Rc. D Guevarra**
-- **Harley Gotardo**
+- **Michael Cye R. Salem**
 - **Additional Contributors**
 
 ## References
